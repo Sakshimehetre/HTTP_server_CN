@@ -1,2 +1,2 @@
-# HTTP_server_CN
+# HTTP server CN
 Computer network project that implements http server
